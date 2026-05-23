@@ -153,3 +153,5 @@ Full list: [Environment variables](../reference/environment-variables.md).
 
 * [`observal config`](config.md): where credentials live
 * [Self-Hosting: Authentication and SSO](../self-hosting/authentication.md): server-side auth setup
+
+- [DO not merge] Explaining git add concept by laddooo
